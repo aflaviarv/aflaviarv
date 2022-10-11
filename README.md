@@ -43,18 +43,13 @@
 
 ---
 
-<details align="center">
+<details>
 <summary>Qual sua linguagem preferida? A minha é essa</summary>      
 
 <div id="header" align="center">
 <img align="Center" height="150em" src="https://i.pinimg.com/originals/b0/83/a3/b083a3941a60a81dda7e29710397f869.gif"/>
 </div>
   
-</details>
-  
-
-
-<details align="center">
 <summary>Qual sua cloud preferida? A minha é essa</summary>     
 
 <div id="header" align="center">
