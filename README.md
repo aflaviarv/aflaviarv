@@ -10,7 +10,9 @@
 </div>
 
 ---
-### Quer ver mais?
+<details>
+  <summary>Quer ver mais?</summary>
+### Jura?
   1. Mas não vai
   2. Bobão
      
