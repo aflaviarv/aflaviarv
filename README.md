@@ -44,10 +44,7 @@
 ---
 
 <details>
-<summary>Qual sua linguagem preferida? A minha é essa</summary>     
-
---- 
-  
+<summary>Qual sua linguagem preferida? A minha é essa</summary>      
 
 <div id="header" align="center">
 <img align="Center" height="150em" src="https://i.pinimg.com/originals/b0/83/a3/b083a3941a60a81dda7e29710397f869.gif"/>
@@ -59,9 +56,6 @@
 
 <details>
 <summary>Qual sua cloud preferida? A minha é essa</summary>     
-
---- 
-  
 
 <div id="header" align="center">
 <img align="Center" height="150em" src="https://miro.medium.com/max/1400/1*2-b5UkCIf7iF0eCTc-DFeQ.gif"/>
