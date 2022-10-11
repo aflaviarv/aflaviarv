@@ -11,11 +11,7 @@
 
 ---
 <details>
-  <summary>Quer ver mais?</summary>
-### Jura?
-  1. Mas não vai
-  2. Bobão
-     
+  <summary>Quer ver mais? Chega aqui rapidão</summary>     
 
 <div id="header" align="center">
 <a href="https://github.com/aflaviarv">
