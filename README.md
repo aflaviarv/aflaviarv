@@ -16,6 +16,8 @@
   
 
 <div>
+<h1>
 <a href="https://github.com/aflaviarv">
 <img align="Center" height="500em" src="https://spotify-recently-played-readme.vercel.app/api?user=12144321314&unique=true"/>
+</h1>
 </div>
