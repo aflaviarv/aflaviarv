@@ -65,3 +65,20 @@
   
 </details>  
 </div>  
+
+---
+
+<div>  
+<details>
+<summary>Quer falar comigo?</summary>
+  
+<details>
+<summary>LinkedIn</summary>      
+
+<div>
+<img align="Center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</div>
+</details> 
+
+</details>  
+</div>  
