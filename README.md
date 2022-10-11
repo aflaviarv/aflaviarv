@@ -12,6 +12,17 @@
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=aflaviarv&theme=merko&show_icons=true"/>
 </div>  
   
+
+---
+  
+  
+  
+<div id="header" align="center">
+<img align="Center" height="500em" src="https://github.com/aflaviarv/aflaviarv/blob/output/github-contribution-grid-snake.svg"/>
+</div>  
+
+
+
 ---  
   
 
@@ -20,11 +31,6 @@
 </div>
 
 
----
-  
-<div id="header" align="center">
-<img align="Center" height="500em" src="https://github.com/aflaviarv/aflaviarv/blob/output/github-contribution-grid-snake.svg"/>
-</div>  
 
   
   
