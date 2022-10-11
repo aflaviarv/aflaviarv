@@ -4,6 +4,7 @@
 
 <h1> 안녕하세요, Hello, Oi! Eu sou a Jinnie e esse é o meu repositório :D </h1> 
 
+---
 
 <div>
 <a href="https://github.com/aflaviarv">
