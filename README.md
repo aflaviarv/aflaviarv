@@ -15,9 +15,11 @@
 <summary>Quer ver mais? Chega aqui rapidão</summary>     
 
 ---  
+  
 <div id="header" align="center">
 <img align="Center" height="500em" src="https://github.com/aflaviarv/aflaviarv/blob/output/github-contribution-grid-snake.svg"/>
 </div>  
+
 ---  
 
   
@@ -29,8 +31,6 @@
 </div>  
   
   
-  
-
 ---
 
   
@@ -50,7 +50,7 @@
   
 
 <div id="header" align="center">
-<img align="Center" height="500em" src="blob:https://carbon.now.sh/b80136d4-c5b3-4e18-b92e-74df7d5d60b3"/>
+<img align="Center" height="500em" src="https://carbon.now.sh/b80136d4-c5b3-4e18-b92e-74df7d5d60b3"/>
 </div>
 
   
