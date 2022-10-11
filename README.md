@@ -15,12 +15,11 @@
 <summary>Quer ver mais? Chega aqui rapidão</summary>     
 
 ---  
-  
 <div id="header" align="center">
 <img align="Center" height="500em" src="https://github.com/aflaviarv/aflaviarv/blob/output/github-contribution-grid-snake.svg"/>
 </div>  
-
 ---  
+
   
   
 <div id="header" align="center">
@@ -28,6 +27,8 @@
 <img align="center" height="180em" src="https://streak-stats.demolab.com?user=aflaviarv&theme=hacker&border_radius=9&locale=pt-br&date_format=%5BY.%5Dn.j"/>
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=aflaviarv&theme=merko&show_icons=true"/>
 </div>  
+  
+  
   
 
 ---
@@ -49,7 +50,7 @@
   
 
 <div id="header" align="center">
-<img align="Center" height="500em" src="https://carbon.now.sh/7a4177a4-1401-4ecd-b57a-9708c47040a9"/>
+<img align="Center" height="500em" src="blob:https://carbon.now.sh/b80136d4-c5b3-4e18-b92e-74df7d5d60b3"/>
 </div>
 
   
