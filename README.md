@@ -10,9 +10,11 @@
 </div>
 
 ---
+<div>
 <details>
-  <summary>Quer ver mais? Chega aqui rapidão</summary>     
-
+<summary>Quer ver mais? Chega aqui rapidão</summary>     
+</div>
+  
 <div id="header" align="center">
 <a href="https://github.com/aflaviarv">
 <img align="center" height="180em" src="https://streak-stats.demolab.com?user=aflaviarv&theme=hacker&border_radius=9&locale=pt-br&date_format=%5BY.%5Dn.j"/>
