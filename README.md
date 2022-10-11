@@ -1,1 +1,1 @@
-[![MasterHead](https://i.pinimg.com/originals/7d/04/0e/7d040e94931427709008aaeda14db9c8.gif)](https://github.com/aflaviarv)
+[![MasterHead](https://i.pinimg.com/originals/7b/1b/b6/7b1bb67b642f2665a0709a26e57300e1.gif)](https://github.com/aflaviarv)
