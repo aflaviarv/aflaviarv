@@ -72,10 +72,9 @@
 <details>
 <summary>Quer falar comigo?</summary>
   
-
-<summary>LinkedIn</summary>      
+    
 <div>
-<img align="Center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/ link="https://www.linkedin.com/in/ana-flavia-rodrigues-09b961144/">
+<a href="https://www.linkedin.com/in/ana-flavia-rodrigues-09b961144" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 
