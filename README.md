@@ -33,7 +33,7 @@
 
 
 <div id="header" align="center">
-<img align="Center" height="500em" src="https://spotify-github-profile.vercel.app/api/view?uid=12144321314&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile"/>
+<img align="Center" src="https://spotify-github-profile.vercel.app/api/view?uid=12144321314&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile"/>
 </div>
   
   
