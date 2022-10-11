@@ -9,7 +9,7 @@
 <div id="header" align="center">
 <a href="https://github.com/aflaviarv">
 <img align="center" height="180em" src="https://streak-stats.demolab.com?user=aflaviarv&theme=hacker&border_radius=9&locale=pt-br&date_format=%5BY.%5Dn.j"/>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=aflaviarv&theme=chartreuse-dark&show_icons=true"/>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=aflaviarv&theme=merko&show_icons=true"/>
 </div>  
   
 ---  
