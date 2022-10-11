@@ -8,7 +8,7 @@
 <div>
 <a href="https://github.com/aflaviarv">
 <img align="right" height="200em" src="https://streak-stats.demolab.com?user=aflaviarv&theme=hacker&border_radius=9&locale=pt-br&date_format=%5BY.%5Dn.j"/>
-<img align="left" height="200em" src="https://github-readme-stats.vercel.app/api?aflaviarv=anuraghazra&show_icons=true&theme=chartreuse-dark"/>
+<img align="left" height="200em" src="hhttps://github-readme-stats.vercel.app/api?aflaviarv=anuraghazra&show_icons=true&theme=chartreuse-dark"/>
 </div>
 
   
