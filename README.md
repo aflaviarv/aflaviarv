@@ -46,7 +46,6 @@
 <div>  
 <details>
 <summary>Bora falar de coisas legais?</summary>
-</div>
   
 <details>
 <summary>Qual sua linguagem preferida? A minha é essa</summary>      
@@ -65,4 +64,4 @@
 </details> 
   
 </details>  
-  
+</div>  
