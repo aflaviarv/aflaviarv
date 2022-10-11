@@ -43,7 +43,7 @@
 
 ---
 
-<div<  
+<div>  
 <details>
 <summary>Bora falar de coisas legais?</summary>
 </div>
