@@ -42,6 +42,9 @@
 
 
 ---
+  
+<details>
+<summary>Bora falar de coisas legais? 
 
 <details>
 <summary>Qual sua linguagem preferida? A minha é essa</summary>      
@@ -56,6 +59,6 @@
 <div id="header" align="center">
 <img align="Center" height="150em" src="https://miro.medium.com/max/1400/1*2-b5UkCIf7iF0eCTc-DFeQ.gif"/>
 </div>
-
+</summary>
 </details>  
   
