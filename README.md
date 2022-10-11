@@ -18,3 +18,13 @@
 <div id="header" align="center">
 <img align="Center" height="500em" src="https://spotify-recently-played-readme.vercel.app/api?user=12144321314&unique=true"/>
 </div>
+
+
+---
+  
+<div id="header" align="center">
+<img align="Center" height="500em" src="https://github.com/aflaviarv/aflaviarv/blob/output/github-contribution-grid-snake.svg"/>
+</div>  
+
+  
+  
