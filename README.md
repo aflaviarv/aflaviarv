@@ -43,7 +43,7 @@
 
 ---
 
-<details>
+<details id="header" align="center">
 <summary>Qual sua linguagem preferida? A minha é essa</summary>      
 
 <div id="header" align="center">
@@ -54,7 +54,7 @@
   
 
 
-<details>
+<details id="header" align="center">
 <summary>Qual sua cloud preferida? A minha é essa</summary>     
 
 <div id="header" align="center">
