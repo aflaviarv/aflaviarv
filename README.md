@@ -2,6 +2,6 @@
 
 ## ***안녕하세요, Hello, Oi! Eu sou a Jinnie e esse é o meu repositório :D*** 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aflaviarv&theme=material-palenight&border_radius=7&locale=pt-br&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=aflaviarv&theme=hacker&border_radius=9&locale=pt-br&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats) 
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12144321314&unique=true)
