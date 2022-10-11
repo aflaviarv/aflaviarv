@@ -16,13 +16,9 @@
 
 ---  
   
-  
-  
 <div id="header" align="center">
 <img align="Center" height="500em" src="https://github.com/aflaviarv/aflaviarv/blob/output/github-contribution-grid-snake.svg"/>
 </div>  
-
-
 
 ---  
   
@@ -44,7 +40,17 @@
 
 
 
+---
+
+<details>
+<summary>Qual sua linguagem preferida? A minha é essa</summary>     
+
+--- 
   
-https://carbon.now.sh/7a4177a4-1401-4ecd-b57a-9708c47040a9
+
+<div id="header" align="center">
+<img align="Center" height="500em" src="https://carbon.now.sh/7a4177a4-1401-4ecd-b57a-9708c47040a9"/>
+</div>
+
   
   
