@@ -15,33 +15,6 @@
 <summary>Quer ver mais? Chega aqui rapidão</summary>     
 
 ---  
-  
-<div id="header" align="center">
-<img align="Center" height="500em" src="https://github.com/aflaviarv/aflaviarv/blob/output/github-contribution-grid-snake.svg"/>
-</div>  
-
----  
-
-  
-  
-<div id="header" align="center">
-<a href="https://github.com/aflaviarv">
-<img align="center" height="180em" src="https://streak-stats.demolab.com?user=aflaviarv&theme=hacker&border_radius=9&locale=pt-br&date_format=%5BY.%5Dn.j"/>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=aflaviarv&show_icons=true&theme=gotham"/>
-</div>  
-  
-  
----
-
-  
-
-<div id="header" align="center">
-<img align="Center" height="500em" src="https://spotify-recently-played-readme.vercel.app/api?user=12144321314&unique=true"/>
-</div>
-
-
-
----
 
 <div>  
 <details>
