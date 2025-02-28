@@ -23,11 +23,11 @@ Welcome to my GitHub! I'm passionate about **Cloud Computing, DevOps, and Observ
 ## 📊 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anaflaviarodrigues&theme=tokyonight" alt="Profile Details"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anaflaviarodrigues&theme=tokyonight" alt="Most Used Languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anaflaviarodrigues&theme=tokyonight" alt="Most Commit Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anaflaviarodrigues&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anaflaviarodrigues&theme=tokyonight&utcOffset=-3" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aflaviarv&theme=tokyonight" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aflaviarv&theme=tokyonight" alt="Most Used Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aflaviarv&theme=tokyonight" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aflaviarv&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aflaviarv&theme=tokyonight&utcOffset=-3" alt="Productive Time"/>
 </div>
 
 ---
