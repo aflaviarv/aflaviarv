@@ -1,4 +1,6 @@
-![Coding](https://i.pinimg.com/originals/7b/1b/b6/7b1bb67b642f2665a0709a26e57300e1.gif)
+<div align="center">
+  <img src="https://i.pinimg.com/originals/7b/1b/b6/7b1bb67b642f2665a0709a26e57300e1.gif" width="100%"/>
+</div>
 
 # 👋 Hello, I'm Jinnie! 
 
@@ -10,20 +12,20 @@ Welcome to my GitHub! I'm passionate about **Cloud Computing, DevOps, and Observ
 
 - 🌍 Based in **Brazil**, working in **Project Management and Cloud**
 - 🎯 **Aspiring to transition into DevOps/SRE**
-- 🎓 **Certified in AWS and Datadog Observability**
+- 🎓 **Certified in AWS, Azure, Datadog and Cisco** ([See all certifications](https://www.credly.com/users/ana-flavia-vasconcelos))
 - 🖥️ **Tech Stack:** Python, JavaScript, PHP (Learning: Go & Ruby)
 - 🔭 **Exploring:** Git, Linux, Kubernetes, CI/CD & Infrastructure as Code
 - 🌎 **Languages:** Portuguese (Native), English (Fluent), Spanish (Learning), French (Learning), Japanese (Learning), Korean (Learning)
-- 📖 **Background:** Computer Science graduate, Postgraduate in Software Architecture
+- 📖 **Background:** Computer Science graduate, Postgraduate in Software Architecture, Technical Degree in Computer Networks
 
 ---
 
 ## 📊 GitHub Stats & Widgets
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ana-flavia-rodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ana-flavia-rodrigues&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-flavia-rodrigues&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anaflaviarodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anaflaviarodrigues&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaflaviarodrigues&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
@@ -45,6 +47,7 @@ Welcome to my GitHub! I'm passionate about **Cloud Computing, DevOps, and Observ
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### Observability & Monitoring:
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
 
