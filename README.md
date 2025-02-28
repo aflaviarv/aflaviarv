@@ -20,12 +20,14 @@ Welcome to my GitHub! I'm passionate about **Cloud Computing, DevOps, and Observ
 
 ---
 
-## 📊 GitHub Stats & Widgets
+## 📊 GitHub Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anaflaviarodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anaflaviarodrigues&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaflaviarodrigues&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anaflaviarodrigues&theme=tokyonight" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anaflaviarodrigues&theme=tokyonight" alt="Most Used Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anaflaviarodrigues&theme=tokyonight" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anaflaviarodrigues&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anaflaviarodrigues&theme=tokyonight&utcOffset=-3" alt="Productive Time"/>
 </div>
 
 ---
