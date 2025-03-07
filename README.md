@@ -2,7 +2,8 @@
   <img src="https://i.pinimg.com/originals/7b/1b/b6/7b1bb67b642f2665a0709a26e57300e1.gif" width="100%"/>
 </div>
 
-# 👋 Hello, I'm Jinnie! 
+# 👋 Hey there! I'm Ana Flavia 
+🚀 Cloud & DevOps Enthusiast | 🛠️ Building my DevOps/SRE journey!
 
 Welcome to my GitHub! I'm passionate about **Cloud Computing, DevOps, and Observability**, and I'm currently expanding my skills in **software development**. Here you'll find my projects, studies, and experiments in the tech world.
 
@@ -28,6 +29,8 @@ Welcome to my GitHub! I'm passionate about **Cloud Computing, DevOps, and Observ
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aflaviarv&theme=tokyonight" alt="Most Commit Language"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aflaviarv&theme=tokyonight" alt="GitHub Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aflaviarv&theme=tokyonight&utcOffset=-3" alt="Productive Time"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aflaviarv&theme=tokyonight&hide_border=true" alt="Continuous Strikes">
+  <img scr="https://github-readme-stats.vercel.app/api/top-langs/?username=aflaviarv&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Most Used Languages">
 </div>
 
 ---
