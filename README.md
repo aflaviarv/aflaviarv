@@ -3,7 +3,7 @@
 </div>
 
 # 👋 Hey there! I'm Ana Flavia 
-🚀 Cloud & DevOps Enthusiast | 🛠️ Building my DevOps/SRE journey!
+🚀 Cloud & DevOps Enthusiast | 🛠️ Building (at least trying to) my DevOps journey!
 
 Welcome to my GitHub! I'm passionate about **Cloud Computing, DevOps, and Observability**, and I'm currently expanding my skills in **software development**. Here you'll find my projects, studies, and experiments in the tech world.
 
@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm passionate about **Cloud Computing, DevOps, and Observ
 - 🌍 Based in **Brazil**, working in **Project Management and Cloud**
 - 🎯 **Aspiring to transition into DevOps/SRE**
 - 🎓 **Certified in AWS, Azure, Datadog and Cisco** ([See all certifications](https://www.credly.com/users/ana-flavia-vasconcelos))
-- 🖥️ **Tech Stack:** Python, JavaScript, PHP (Learning: Go & Ruby)
+- 🖥️ **Tech Stack:** Python, JavaScript, PHP (Learning: Rust, Go & Ruby)
 - 🔭 **Exploring:** Git, Linux, Kubernetes, CI/CD & Infrastructure as Code
 - 🌎 **Languages:** Portuguese (Native), English (Fluent), Spanish (Learning), French (Learning), Japanese (Learning), Korean (Learning)
 - 📖 **Background:** Computer Science graduate, Postgraduate in Software Architecture, Technical Degree in Computer Networks
