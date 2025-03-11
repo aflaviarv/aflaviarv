@@ -30,7 +30,6 @@ Welcome to my GitHub! I'm passionate about **Cloud Computing, DevOps, and Observ
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aflaviarv&theme=tokyonight" alt="GitHub Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aflaviarv&theme=tokyonight" alt="Productive Time"/>
   <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=aflaviarv&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Most Used Languages" width="500"/>
-  <img src="https://streak-stats.demolab.com?user=aflaviarv&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
 </div>
 
 ---
