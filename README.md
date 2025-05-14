@@ -1,74 +1,109 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/7b/1b/b6/7b1bb67b642f2665a0709a26e57300e1.gif" width="100%"/>
-</div>
+<!-- Animated Banner -->
+<p align="center">
+  <img src="images/banner-da-nova-era.gif" alt="New Era Animated Banner" />
+</p>
 
-# 👋 Hey there! I'm Ana Vasconcelos
-🚀 Cloud & DevOps Enthusiast | 🛠️ Building (at least trying to) my DevOps journey!
+<h1 align="center">✨ Ana Vasconcelos ✨</h1>
 
-Welcome to my GitHub! I'm passionate about **Cloud Computing, DevOps, and Observability**, and I'm currently expanding my skills in **software development**. Here you'll find my projects, studies, and experiments in the tech world.
-
----
-
-## 🚀 About Me
-
-- 🌍 Based in **Brazil**, working in **Project Management and Cloud**
-- 🎯 **Aspiring to transition into DevOps/SRE**
-- 🎓 **Certified in AWS, Azure, Datadog and Cisco** ([See all certifications](https://www.credly.com/users/ana-flavia-vasconcelos))
-- 🖥️ **Tech Stack:** Python, JavaScript, PHP (Learning: Rust, Go & Ruby)
-- 🔭 **Exploring:** Git, Linux, Kubernetes, CI/CD & Infrastructure as Code
-- 🌎 **Languages:** Portuguese (Native), English (Fluent), Spanish (Learning), French (Learning), Japanese (Learning), Korean (Learning)
-- 📖 **Background:** Computer Science graduate, Postgraduate in Software Architecture, Technical Degree in Computer Networks
+<p align="center">
+  <i>“The best processes go unnoticed, they simply flow.”</i><br>
+  <b>Project Analyst</b><br>
+  <sub>DevOps • SRE • Observability • Cloud</sub>
+</p>
 
 ---
 
-## 📊 GitHub Metrics
+### 💗 ❯ About Me
+
+Hi! I’m Ana — but feel free to call me *Aninha* 💗
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aflaviarv&theme=tokyonight" alt="Profile Details"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aflaviarv&theme=tokyonight" alt="Most Used Languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aflaviarv&theme=tokyonight" alt="Most Commit Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aflaviarv&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aflaviarv&theme=tokyonight" alt="Productive Time"/>
-  <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=aflaviarv&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Most Used Languages" width="500"/>
+  <img src="images/icon-nova-era.png" alt="Pink Heart Icon" width="100" />
 </div>
 
----
 
-## 🛠️ Tech Stack
+I work as a **Project Analyst**. My focus is on:
 
-### Programming Languages:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white)
+- delivering structured cloud projects  
+- building automation flows  
+- writing aesthetic and functional documentation  
+- supporting teams with clear and proactive processes  
 
+I’m currently **deepening my skills** in **DevOps and SRE**, bringing together everything I value most: precision, consistency, and a touch of personality in everything I do.
 
-### Cloud & DevOps:
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/azure-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-
-### Observability & Monitoring:
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
+> I believe in silent efficiency — the kind that just works.  
 
 ---
 
-## 🔗 Connect with Me
+### 💗 ❯ Currently Improving
+
+- **Git & GitHub** – version control with structure  
+- **Linux** – personal journey via *Linux em Ação*  
+- **Docker & Kubernetes** – building resilient environments  
+- **AWS & Terraform** – reproducible cloud infrastructures  
+- **Datadog** – logs, metrics, traces & SIEM  
+
+📚 You can find all this organized in my themed repositories under `fromzero-tohero`.
+
+---
+
+### 💗 ❯ Featured Repositories
+
+| 🌟 Repository | ✨ Description |
+|--------------|----------------|
+| [`fromzero-tohero-frontend`](https://github.com/aflaviarv/fromzero-tohero-frontend) | Front-end projects from the *Coding Future* bootcamp |
+| [`fromzero-tohero-powershell`](https://github.com/aflaviarv/fromzero-tohero-powershell) | Practical PowerShell automation scripts |
+| [`proserv-zapier-pytools`](https://github.com/aflaviarv/proserv-zapier-pytools) | Python tools to automate service flows at scale |
+
+---
+
+### 💗 ❯ Visual Identity
+
+My branding brings **professionalism + softness** — because documentation can be structured *and* beautiful 💗
+
+🌸 **Core style elements:**
+
+- Pink gradient palette — from *baby blush* to *bold fuchsia*
+- Pixel-inspired visuals — 2000's retro but elegant  
+- Minimal layout with spacing that breathes  
+- Consistency and clarity across docs and repos  
+- A soft tone that keeps everything friendly, but focused
+
+---
+
+### 💗 ❯ Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/aflaviarv/)  
+- [GitHub](https://github.com/aflaviarv)  
+- [Portfolio](https://github.com/aflaviarv) *(coming soon)*
+
+---
+
+## 💗 ❯ GitHub Stats (Omni Theme)
 
 <div align="center">
-<a href="https://www.linkedin.com/in/ana-flavia-rodrigues-09b961144" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=aflaviarv&show_icons=true&theme=omni&hide_title=true&hide_border=true" alt="Ana's GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aflaviarv&theme=omni&no-frame=true&no-bg=true&margin-w=15&title=Commit,Repositories,Stars,Followers,PullRequest&column=5" alt="GitHub Trophies" />
 </div>
 
 ---
 
-> _“Technology is best when it brings people together.”_ – Matt Mullenweg
+## 💗 ❯ GitHub Metrics (Omni Theme)
 
-Thank you for visiting! Feel free to explore my repositories and connect with me. 🚀
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aflaviarv&theme=omni" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aflaviarv&theme=omni" alt="Most Used Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aflaviarv&theme=omni" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aflaviarv&theme=omni" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aflaviarv&theme=omni" alt="Productive Time"/>
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=aflaviarv&theme=omni&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="500"/>
+</div>
+
+---
+
+<p align="center">
+  <i>Crafted with clarity, consistency, and a touch of pink.</i>
+</p>
