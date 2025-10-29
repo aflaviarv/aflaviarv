@@ -15,7 +15,7 @@
 <table align="center" width="auto">
   <tr>
     <td align="center" width="auto">
-      <img src="images/icon1.png" width="256" style="border-radius: 50%;"><br>
+      <img src="https://i.postimg.cc/Y9nxWhtS/1.png" width="256" style="border-radius: 50%;"><br>
       <img src="https://img.shields.io/badge/-ABOUT%20ME-D8BFD8?style=for-the-badge&logo=about-dot-me">
     </td>
     <td align="left" width="auto">
@@ -40,7 +40,7 @@
       </p>
     </td>
         <td align="center" width="auto">
-      <img src="images/icon2.png" width="256" style="border-radius: 50%;"><br>
+      <img src="https://i.postimg.cc/hjy0dfKJ/2.png" width="256" style="border-radius: 50%;"><br>
       <img src="https://img.shields.io/badge/-MY%20SKILLS-D8BFD8?style=for-the-badge&logo=about-dot-me">
     </td>
   </tr>
@@ -54,5 +54,5 @@
 </div>
 
 <div class="rodape" align="center">
-    <img src="images/rodape.png" alt="banner-rodapé" border="0" />
+    <img src="https://i.postimg.cc/W4rRScd7/banner-rodape.png" alt="banner-rodapé" border="0" />
 </div>
