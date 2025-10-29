@@ -8,7 +8,7 @@
 <br>
 
 <div class="cabecalho" align="center">
-    <img src="https://postimg.cc/sBwHBcwM" alt="banner-de-cabeçalho" border="0" />
+    <img src="https://i.postimg.cc/rmLBPZ4N/cabecalho.png" alt="banner-de-cabeçalho" border="0" />
 </div>
 
 <div class="fist-block">
