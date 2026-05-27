@@ -1,7 +1,7 @@
 <div class="perfil-views">
 <img align="right" src="https://komarev.com/ghpvc/?username=aflaviarv&color=blueviolet&style=plastic&label=Profile+Views&abbreviated=true">
 <br>
-<img align="right" src="https://img.shields.io/github/stars/aflaviarv?style=plastic&color=purple">
+![GitHub User's stars](https://img.shields.io/github/stars/aflaviarv)
 </div>
 
 <br>
